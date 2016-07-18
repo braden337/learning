@@ -1,8 +1,7 @@
 # Programming / Web Development Resources
-### that I continue to refer to
 
-## Courses
+### Courses
 - https://www.codecademy.com/learn/ruby
 
-## Websites
+### Websites
 - https://css-tricks.com
